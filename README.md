@@ -13,7 +13,7 @@ This is a modular version of the maptoposter with several changes I felt were ne
 
 ### As a Command-Line Tool
 
-```bash
+```powershell
 General usage:
   python create_map_poster.py --city <city> --country <country> [options]
 
@@ -94,7 +94,8 @@ Performance tip: Use "--theme all" to generate all themes at once!
   happens only ONCE, then all themes are rendered quickly.
 
 Available themes can be found in the 'themes/' directory. 
-If you want to use "--theme all" only on a subset of themes just move the ones you do not want into a backup directory. 
+If you want to use "--theme all" only on a subset of themes just move the ones you 
+do not want into a backup directory. 
 Generated posters are saved to 'posters/' directory.
 ```
 
