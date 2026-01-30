@@ -122,7 +122,7 @@ def fetch_and_process_map_data(
         
         pbar.set_description("Downloading water features")
         water = fetch_features(point_coords, dist, 
-                             {'natural': 'water', 'waterway': 'riverbank'}, 'water')
+                             {'natural': ["water", "bay", "strait"], 'waterway': 'riverbank'}, 'water')
         pbar.update(1)
         
         pbar.set_description("Downloading parks/green spaces")
