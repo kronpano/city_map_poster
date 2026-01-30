@@ -1,0 +1,16 @@
+{
+  "name": "Mario Kart Rainbow Road",
+  "description": "Vibrant racing colors inspired by Mario Kart - bright roads, green pipes, and rainbow vibes",
+  "bg": "#87CEEB",
+  "text": "#FF0000",
+  "gradient_color": "#87CEEB",
+  "water": "#0066FF",
+  "parks": "#00CC44",
+  "railway": "#FFD700",
+  "road_motorway": "#FF1493",
+  "road_primary": "#FF4500",
+  "road_secondary": "#FFD700",
+  "road_tertiary": "#00CED1",
+  "road_residential": "#9370DB",
+  "road_default": "#FF69B4"
+}

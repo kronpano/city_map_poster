@@ -1,0 +1,16 @@
+{
+  "name": "Refined Terracotta",
+  "description": "Warm Mediterranean terracotta with clearer contrast and cooler water",
+  "bg": "#F6EFE7",
+  "text": "#6F3B1F",
+  "gradient_color": "#F6EFE7",
+  "water": "#6E8FB3",
+  "parks": "#DDE4D3",
+  "road_motorway": "#8F3E1F",
+  "road_primary": "#A84F2A",
+  "road_secondary": "#BF6A4A",
+  "road_tertiary": "#D08A6E",
+  "road_residential": "#E6BFAE",
+  "railway": "#7A7A7A",
+  "road_default": "#D08A6E"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Tron Legacy Grid",
+  "description": "Enter the grid - electric blue circuits on black with orange enemy programs",
+  "bg": "#0A0E1A",
+  "text": "#00D9FF",
+  "gradient_color": "#0A0E1A",
+  "water": "#001433",
+  "parks": "#0D1B2A",
+  "railway": "#FF6B35",
+  "road_motorway": "#00D9FF",
+  "road_primary": "#00B4D8",
+  "road_secondary": "#0096C7",
+  "road_tertiary": "#0077B6",
+  "road_residential": "#03045E",
+  "road_default": "#0077B6"
+}

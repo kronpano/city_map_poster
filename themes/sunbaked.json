@@ -1,0 +1,16 @@
+{
+  "name": "Sunbaked Earth",
+  "description": "High-contrast terracotta and ochre with deep blue water",
+  "bg": "#F2E6D8",
+  "text": "#4A2A1A",
+  "gradient_color": "#F2E6D8",
+  "water": "#3E6C8E",
+  "parks": "#D6CFAF",
+  "road_motorway": "#7A2E18",
+  "road_primary": "#9C4024",
+  "road_secondary": "#B85D42",
+  "road_tertiary": "#CF836B",
+  "road_residential": "#E0B2A0",
+  "railway": "#5F5F5F",
+  "road_default": "#CF836B"
+}

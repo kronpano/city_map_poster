@@ -1,0 +1,16 @@
+{
+  "name": "The Scream",
+  "description": "Munch's swirling anxiety - fiery orange skies, blood-red roads, turbulent blues",
+  "bg": "#db8a58",
+  "text": "#2C1810",
+  "gradient_color": "#FF8C42",
+  "water": "#4169e1c7",
+  "parks": "#5a8b55be",
+  "railway": "#8B4513",
+  "road_motorway": "#8B0000",
+  "road_primary": "#9b1c1c",
+  "road_secondary": "#CD5C5C",
+  "road_tertiary": "#4e271a",
+  "road_residential": "#633d2f",
+  "road_default": "#31201a"
+}

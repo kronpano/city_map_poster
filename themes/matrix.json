@@ -1,0 +1,16 @@
+{
+  "name": "The Matrix Code",
+  "description": "Digital rain in the machine - cascading green code on black void",
+  "bg": "#000000",
+  "text": "#00FF41",
+  "gradient_color": "#000000",
+  "water": "#003B00",
+  "parks": "#002200",
+  "railway": "#00FF41",
+  "road_motorway": "#00FF41",
+  "road_primary": "#00DD3A",
+  "road_secondary": "#00BB33",
+  "road_tertiary": "#00992B",
+  "road_residential": "#007722",
+  "road_default": "#00992B"
+}

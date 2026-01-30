@@ -1,0 +1,16 @@
+{
+  "name": "Clay & Sage",
+  "description": "Soft clay roads with sage parks and cool slate water",
+  "bg": "#F4EFE9",
+  "text": "#5C3A2E",
+  "gradient_color": "#F4EFE9",
+  "water": "#5F7F99",
+  "parks": "#C9D6C3",
+  "road_motorway": "#8B4A34",
+  "road_primary": "#A55E45",
+  "road_secondary": "#BF7A60",
+  "road_tertiary": "#D2A18C",
+  "road_residential": "#E3C8B8",
+  "railway": "#6E6E6E",
+  "road_default": "#D2A18C"
+}

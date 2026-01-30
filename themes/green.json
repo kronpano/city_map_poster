@@ -1,0 +1,16 @@
+{
+  "name":"Green",
+  "description":"green land and high-contrast roads",
+  "bg":"#1f3d2b",
+  "text":"#000000",
+  "gradient_color":"#1f3d2b",
+  "water":"#30888f",
+  "parks":"#702586a9",
+  "road_motorway":"#87eeee",
+  "road_primary":"#82c6cf",
+  "road_secondary":"#7fa0bb",
+  "road_tertiary":"#9fb2a6",
+  "road_residential":"#d8d8d8",
+  "railway":"#000000",
+  "road_default":"#b8c9bf"
+}

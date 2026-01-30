@@ -1,0 +1,16 @@
+{
+  "name": "Cyberpunk Noir",
+  "description": "Dark futuristic palette with restrained neon highlights",
+  "bg": "#0E1116",
+  "text": "#BFC7D5",
+  "gradient_color": "#0E1116",
+  "water": "#132C44",
+  "parks": "#14261D",
+  "road_motorway": "#F72585",
+  "road_primary": "#B5179E",
+  "road_secondary": "#7209B7",
+  "road_tertiary": "#4CC9F0",
+  "road_residential": "#2A6F97",
+  "railway": "#6C757D",
+  "road_default": "#4CC9F0"
+}

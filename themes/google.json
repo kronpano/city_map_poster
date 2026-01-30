@@ -1,0 +1,16 @@
+{
+  "name": "Googlemaps",
+  "description": "Theme converted from GoogleMaps.mrules",
+  "bg": "#e7dcc7",
+  "text": "#000000",
+  "gradient_color": "#F2EFE9",
+  "water": "#A5BFDD",
+  "parks": "#599b48b4",
+  "road_motorway": "#b96c2d",
+  "road_primary": "#b9b728",
+  "road_secondary": "#969426",
+  "road_tertiary": "#7c7b1c",
+  "road_residential": "#c7a858",
+  "railway": "#3a3a3a",
+  "road_default": "#7a6b33"
+}

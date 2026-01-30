@@ -1,0 +1,16 @@
+{
+  "name": "Cyberpunk Neon",
+  "description": "Dark cyberpunk map with neon cyan, magenta and violet highlights",
+  "bg": "#0B0F14",
+  "text": "#C9D1D9",
+  "gradient_color": "#0B0F14",
+  "water": "#1d1d9cb6",
+  "parks": "#0F2A22",
+  "road_motorway": "#FF2E88",
+  "road_primary": "#FF6BD6",
+  "road_secondary": "#9B7BFF",
+  "road_tertiary": "#3FD5FF",
+  "road_residential": "#1E6A8A",
+  "railway": "#5B6270",
+  "road_default": "#3FD5FF"
+}

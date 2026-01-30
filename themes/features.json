@@ -1,0 +1,16 @@
+{
+  "name": "Feature-Based Shading",
+  "description": "Different shades for different road types and features with clear hierarchy",
+  "bg": "#e9e9e9",
+  "text": "#000000",
+  "gradient_color": "#cecece",
+  "water": "#2c39ad",
+  "parks": "#3e9233",
+  "road_motorway": "#c63fca",
+  "road_primary": "#a53544",
+  "road_secondary": "#4281a5",
+  "road_tertiary": "#b89e57",
+  "road_residential": "#886d6d",
+  "railway": "#000000",
+  "road_default": "#3b584d"
+}

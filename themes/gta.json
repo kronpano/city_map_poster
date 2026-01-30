@@ -1,0 +1,16 @@
+{
+  "name": "GTA Vice City Nights",
+  "description": "80s neon Miami nights - hot pink streets, cyan water, and purple skies",
+  "bg": "#2d1b4e63",
+  "text": "#FF10F0",
+  "gradient_color": "#2D1B4E",
+  "water": "#00FFFF",
+  "parks": "#1B5E20",
+  "railway": "#FFA500",
+  "road_motorway": "#FF1493",
+  "road_primary": "#FF10F0",
+  "road_secondary": "#9D00FF",
+  "road_tertiary": "#7B2CBF",
+  "road_residential": "#5A189A",
+  "road_default": "#7B2CBF"
+}
