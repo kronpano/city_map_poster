@@ -13,7 +13,7 @@ This is a modular version of the maptoposter with several changes I felt were ne
 
 ### As a Command-Line Tool
 
-```powershell
+```shell
 General usage:
   python create_map_poster.py --city <city> --country <country> [options]
 
