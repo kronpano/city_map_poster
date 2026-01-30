@@ -12,17 +12,17 @@ Another python repository which allows you to create stylish maps from OSM data 
 | ![Alt](posters/mannheim_matrix_9000_1w_20260129_204027_2.jpg) | ![Alt](posters/mannheim_vintage_9000_1w_20260129_203300_2.jpg) | ![Alt](posters/beijing_neon_cyber_rail_20000_2s_20260129_201228_2.jpg) |  
 
 This is a modular version of the [maptoposter](https://github.com/originalankur/maptoposter)    with the following changes:
-- The original monolithic script (at the time of my fork mid January) was broken down into modules
-- Data processing and rendering has been separated to the "--theme all" does data processing once and then only rendering for the different themes
+- The original script (at the time of my fork mid January 2026) was broken down into modules
+- Data processing and rendering has been separated so the "--theme all" does data processing once and then only rendering for the different themes
 - You can either use city/country with or without shifting the map centre or using lat/long coordinates as well as shifting
 - Font handling of was improved, the output ratio can be given and the labeling has been changed to work with all kind of ratios.
 - Cache handling has been changed so it is on a per city bases - once you are done with a city you can remove all the cached files easily.
 - Railway lines are included and the state/province was added to the description
-- You can export as layered svg which opens up post-processing possibilities. Layers are named according to the OSM layers : parks, water, roads (residential → tertiary → secondary → primary → motorway))
+- You can export as layered svg which opens up post-processing possibilities.  
+Layers are named according to the OSM layers : parks, water, roads (residential → tertiary → secondary → primary → motorway))
 
 ## Usage
 
-### As a Command-Line Tool
 
 ```shell
 General usage:
