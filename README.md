@@ -4,12 +4,12 @@ Another python repository which allows you to create stylish maps from OSM data 
 
 | Glasgow parchment - generated as svg_layered and post processing in Affinity/Inkscape
 | :---: |
-![Glasgow](posters\glasgow_parchment_from_layered_SVG_2.jpg)
+![Glasgow](posters/glasgow_parchment_from_layered_SVG_2.jpg)
 
 
 | Mannheim Matrix | Mannheim vintage | Beijing neon_cyber_rail| 
 | :---: | :---: | :---: |
-| ![Alt](posters\mannheim_matrix_9000_1w_20260129_204027_2.jpg) | ![Alt](posters\mannheim_vintage_9000_1w_20260129_203300_2.jpg) | ![Alt](posters\beijing_neon_cyber_rail_20000_2s_20260129_201228_2.jpg) |  
+| ![Alt](posters/mannheim_matrix_9000_1w_20260129_204027_2.jpg) | ![Alt](posters/mannheim_vintage_9000_1w_20260129_203300_2.jpg) | ![Alt](posters/beijing_neon_cyber_rail_20000_2s_20260129_201228_2.jpg) |  
 
 This is a modular version of the [maptoposter](https://github.com/originalankur/maptoposter)    with the following changes:
 - The original monolithic script (at the time of my fork mid January) was broken down into modules
