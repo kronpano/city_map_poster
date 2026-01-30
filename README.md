@@ -1,6 +1,17 @@
 # City Map Poster Generator
 
-This is a modular version of the maptoposter with several changes I felt were necessary.
+Another python repository which allows you to create stylish maps from OSM data which can by customised by using different themes.
+
+| Glasgow parchment - generated as svg_layered and post processing in Affinity/Inkscape
+| :---: |
+![Glasgow](posters\glasgow_parchment_from_layered_SVG_2.jpg)
+
+
+| Mannheim Matrix | Mannheim vintage | Beijing neon_cyber_rail| 
+| :---: | :---: | :---: |
+| ![Alt](posters\mannheim_matrix_9000_1w_20260129_204027_2.jpg) | ![Alt](posters\mannheim_vintage_9000_1w_20260129_203300_2.jpg) | ![Alt](posters\beijing_neon_cyber_rail_20000_2s_20260129_201228_2.jpg) |  
+
+This is a modular version of the [maptoposter](https://github.com/originalankur/maptoposter)    with the following changes:
 - The original monolithic script (at the time of my fork mid January) was broken down into modules
 - Data processing and rendering has been separated to the "--theme all" does data processing once and then only rendering for the different themes
 - You can either use city/country with or without shifting the map centre or using lat/long coordinates as well as shifting
