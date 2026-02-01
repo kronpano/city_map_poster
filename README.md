@@ -13,7 +13,7 @@ Another python repository which allows you to create stylish maps from OSM data 
 
 | layered SVG output makes it easy to animate the different layers directly in SVG |
 | :---: |
-| ![Alt](posters\animate_mannheim_matrix.svg)|
+| ![Alt](posters/animate_mannheim_matrix.svg)|
 
 This is a modular version of the [maptoposter](https://github.com/originalankur/maptoposter)    with the following changes:
 - The original script (at the time of my fork mid January 2026) was broken down into modules
