@@ -74,7 +74,7 @@
 
       #road-primary {
 		stroke:#dddd3a;
-		stroke-width:3;
+		stroke-width:5;
 		stroke-dasharray:60,20;
 		visibility:visible;
         animation: dash_prim 2s linear infinite;
@@ -90,7 +90,7 @@
 
 	  #road-secondary{
 		stroke:#aabb33;
-		stroke-width:2.5;
+		stroke-width:3;
 		stroke-dasharray:60,40;
 		visibility:visible;
         animation: dash_sec 3s linear infinite;
@@ -107,7 +107,7 @@
 
       #road-tertiary {
 		stroke:#aabb2b;
-		stroke-width:2.5;
+		stroke-width:5;
 		stroke-dasharray:30,40;
 		visibility:visible;
         animation: dash_ter 3s linear infinite;
@@ -123,7 +123,7 @@
 	  
 	  #road-residential {
 		stroke:#007722;
-		stroke-width:2.8;
+		stroke-width:5;
 		stroke-dasharray:20,20;
 		visibility:visible;        
 		animation: dash_res 2s linear infinite;
