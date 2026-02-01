@@ -11,6 +11,7 @@ Another python repository which allows you to create stylish maps from OSM data 
 | :---: | :---: | :---: |
 | ![Alt](posters/mannheim_matrix_9000_1w_20260129_204027_2.jpg) | ![Alt](posters/mannheim_vintage_9000_1w_20260129_203300_2.jpg) | ![Alt](posters/beijing_neon_cyber_rail_20000_2s_20260129_201228_2.jpg) |  
 
+### Animation Example
 | layered SVG output makes it easy to animate the different layers directly in SVG |
 | :---: |
 | ![Alt](posters/animate_mannheim_matrix.svg)|
