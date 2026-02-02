@@ -15,7 +15,7 @@ Another python repository which allows you to create stylish maps from OSM data 
 | layered SVG output makes it easy to animate the different layers directly in SVG |
 | :---: |
 | ![Alt](posters/animate_mannheim_matrix.svg)|
-| path animation after simplyfying and combining the paths in Inkscape (loops about every 20 seconds)
+| path animation after simplifying and combining the paths in Inkscape (loops about every 20 seconds)
 | ![Alt](posters/anim_3.svg)|
 
 
