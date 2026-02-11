@@ -17,6 +17,8 @@ Another python repository which allows you to create stylish maps from OSM data 
 | ![Alt](posters/animate_mannheim_matrix.svg)|
 | path animation after simplifying and combining the paths in Inkscape (loops about every 20 seconds)
 | ![Alt](posters/anim_3.svg)|
+| three animated SVG file with different themes overlayed by animated clip path
+| ![Alt](posters/index_arc.html)|
 
 
 This is a modular version of the [maptoposter](https://github.com/originalankur/maptoposter)    with the following changes:
