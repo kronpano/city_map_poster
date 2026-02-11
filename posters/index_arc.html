@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>120° Wedge Animations - Fixed</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<svg viewBox="0 0 1200 1200" width="1200" height="1200">
+  <defs>
+    <!-- Outer rounded square -->
+    <clipPath id="outer">
+      <rect x="0" y="0" width="1200" height="1200" rx="0" ry="0"/>
+    </clipPath>
+
+    <!-- 120° wedge with animation -->
+    <clipPath id="w1">
+      <path d="M600 600 L600 0 A600 600 0 0 1 1120 900 Z">
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          from="0 600 600"
+          to="360 600 600"
+          dur="29s"
+          repeatCount="indefinite"
+		  calcMode="spline"
+          keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"
+          keyTimes="0;0.5;0.8"
+          additive="replace"/>
+      </path>
+    </clipPath>
+
+    <clipPath id="w2">
+      <path transform="rotate(120 600 600)"
+            d="M600 600 L600 0 A600 600 0 0 1 1120 900 Z">
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          from="120 600 600"
+          to="480 600 600"
+          dur="29s"
+          repeatCount="indefinite"
+		  calcMode="spline"
+          keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"
+          keyTimes="0;0.5;0.8"
+          additive="replace"/>
+      </path>
+    </clipPath>
+
+    <clipPath id="w3">
+      <path transform="rotate(240 600 600)"
+            d="M600 600 L600 0 A600 600 0 0 1 1120 900 Z">
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          from="240 600 600"
+          to="600 600 600"
+          dur="29s"
+          repeatCount="indefinite"
+		  calcMode="spline"
+          keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"
+          keyTimes="0;0.5;0.8"
+          additive="replace"/>
+      </path>
+    </clipPath>
+  </defs>
+  
+
+<image href="wedge1.svg" width="1200" height="1200" clip-path="url(#w1)" />
+<image href="wedge2.svg" width="1200" height="1200" clip-path="url(#w2)" />
+<image href="wedge3.svg" width="1200" height="1200" clip-path="url(#w3)" />
+</svg>
+        
+
+</body>
+</html>
+
+
