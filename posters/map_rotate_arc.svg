@@ -59,8 +59,8 @@
   </defs>
   
 
-<image href="wedge1.svg" width="1200" height="1200" clip-path="url(#w1)" />
-<image href="wedge2.svg" width="1200" height="1200" clip-path="url(#w2)" />
-<image href="wedge3.svg" width="1200" height="1200" clip-path="url(#w3)" />
+<image href="./wedge1.svg" width="1200" height="1200" clip-path="url(#w1)" />
+<image href="./wedge2.svg" width="1200" height="1200" clip-path="url(#w2)" />
+<image href="./wedge3.svg" width="1200" height="1200" clip-path="url(#w3)" />
 </svg>
 
